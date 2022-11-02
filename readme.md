@@ -42,4 +42,8 @@ NOTAS:   * Table es la etiqueta para crear el cuerpo de la tabla.
          * <th> </th> se usa para las filas del <thead>, además les da un estilo de negrita y centrado.-->
          * colspan="3"Es para ocupar tres columnas hacia atrás y borramos los dos espacios de <tr></tr> a la izquiera para que TOTAL
            ocupe las tres celdas.
+  
+  
+  
+  [https://julianortiz6605.github.io/-4.4-Etiqueda-de-Tablas/]
     
